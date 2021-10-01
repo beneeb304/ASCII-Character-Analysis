@@ -1,0 +1,1 @@
+welcome to the file this is one really long line.  This is a test.  It is only a test.  What do you think about my really cool, no carriage return, no line feed, text file that just keeps going and going.
